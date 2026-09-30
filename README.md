@@ -33,7 +33,7 @@ This repository contains solutions to the five mandatory HackerRank algorithmic 
 
 ## HackerRank Profile
 
-**Profile:** ADD YOUR HACKERRANK PROFILE LINK HERE
+**Profile:** (https://www.hackerrank.com/profile/khannabiya737)
 
 ## Screenshots
 
