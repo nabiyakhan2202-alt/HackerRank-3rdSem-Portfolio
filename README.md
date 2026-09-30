@@ -33,7 +33,7 @@ This repository contains solutions to the five mandatory HackerRank algorithmic 
 
 ## HackerRank Profile
 
-**Profile:** (https://www.hackerrank.com/profile/khannabiya737)
+**Profile:** https://www.hackerrank.com/profile/khannabiya737
 
 ## Screenshots
 
@@ -41,7 +41,9 @@ Accepted submission screenshots are included inside each respective problem fold
 
 ## Badge
 
-HackerRank skill badge screenshot will be added here after earning the required badge.
+### HackerRank 3-Star Problem Solving Badge
+
+![HackerRank 3-Star Badge](./hackerrank-3-star-badge.png)
 
 ## Repository Structure
 
@@ -72,5 +74,7 @@ HackerRank-3rdSem-Portfolio/
 │   ├── sparse-arrays.cpp
 │   ├── sparse-arrays.md
 │   └── sparse-arrays-result.png
+│
+├── hackerrank-3-star-badge.png
 │
 └── README.md
